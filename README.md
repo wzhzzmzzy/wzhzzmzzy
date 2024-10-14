@@ -1,6 +1,6 @@
-It's Amber, a humble developer who currently makes a living as a Web Front-End specialist. 
+这里是 Amber，鶸前端开发
 
-My daily toolkit includes JavaScript and TypeScript, but I also dabble in Rust and Python from time to time.
+能写点代码，但不能写的更多；喜欢摇滚，但每天都会上班
 
 <!--
 **wzhzzmzzy/wzhzzmzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
