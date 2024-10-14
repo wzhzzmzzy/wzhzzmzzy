@@ -1,4 +1,8 @@
-## Hi there 👋
+It's Amber, a humble developer who currently makes a living as a Web Front-End specialist. 
+
+My daily toolkit includes JavaScript and TypeScript, but I also dabble in Rust and Python from time to time.
+
+I have a penchant for whimsical ideas and a deep appreciation for ingenious creations.
 
 <!--
 **wzhzzmzzy/wzhzzmzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
