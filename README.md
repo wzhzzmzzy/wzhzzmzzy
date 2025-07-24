@@ -1,4 +1,4 @@
-这里是 Amber，鶸前端开发，没时间但有时也会写[博客](https://koala.wzhzzmzzy.workers.dev/post/little-vdom)
+这里是 Amber，鶸前端开发，没时间但有时也会写[博客](https://koala.wzhzzmzzy.workers.dev/posts)
 
 能写点代码，但不能写的更多；喜欢摇滚，但每天都会上班
 
